@@ -1,4 +1,4 @@
-📊 Social Media Advertisement Analysis | Excel Project
+ **Social Media Advertisement Analysis | Excel Project**
 
  **Project Overview**
 
